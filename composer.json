@@ -1,0 +1,15 @@
+{
+    "name": "murphy/image-abstractor",
+    "description": "LinkedIn Learning Exercise",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ufmurphy",
+            "email": "ufmurphy@gmail.com"
+        }
+    ],
+    "require": {
+        "league/color-extractor": "0.3.*",
+        "monolog/monolog": "^1.0"
+    }
+}
